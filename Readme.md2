@@ -1,0 +1,28 @@
+# Lab Assignment 2
+*Name:* Md Sajid Ahmed   
+*ID:* 2215151155
+*University:* University of Information Technology & Sciences
+*Course:*  Simulation and Modeling Lab
+*Assignment:* Lab Assignment 2
+*Due Date:* Feb 19  
+
+## Tasks Completed:
+Use numpy to create a 3×3 matrix of random integers between 1 and 50.  
+  Run the code twice
+  With a fixed seed (`np.random.seed(10)`) to ensure reproducibility.  
+  Without setting a seed, allowing random values to change each time.  
+  Observe and explain the differences in outputs.(in a different cell as text)
+
+## Concepts Covered:
+- Matrix of random integers between 1 and 50.
+- Matrix showcases.
+- GitHub for version control.
+
+## What I Learned:
+- Generating Random Integers with matrices.
+- Random Numbers Without a Fixed Seeds.
+- Setting a Random Seed for Reproducibility.
+- Uploading projects to GitHub.
+
+## Submission:
+The .ipynb file is uploaded in this repository.
