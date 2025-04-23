@@ -1,0 +1,33 @@
+# Lab Assignment 5
+
+*Name:* Md Sajid Ahmed   
+*ID:* 2215151155
+*University:* University of Information Technology & Sciences
+*Course:*  Simulation and Modeling Lab
+*Assignment:* Lab Assignment 5
+*Due Date:* April 23, 2025
+
+## Tasks Completed:
+
+ - Loaded a dataset of temperature readings.
+ - Standardized the data using mean and standard deviation.
+ - Conducted a Kolmogorov-Smirnov (K-S) test to check normality.
+ - Compared empirical CDF with the standard normal CDF.
+ - Visualized both CDFs to interpret the K-S test result.
+ 
+
+## Concepts Covered:
+
+ - **NumPy:** Statistical operations like mean and standard deviation.
+ - **SciPy:** Conducting a K-S test for normality.
+ - **Matplotlib:** Visualization of empirical vs theoretical distributions.
+
+## What I Learned:
+
+ - How to standardize data using z-scores.
+ - How the Kolmogorov-Smirnov test can be used to test for normality.
+ - How to visually compare empirical and theoretical distributions using CDFs.
+ - Interpreting p-values and test statistics from the K-S test.
+
+## Submission:
+The `.ipynb` file containing this analysis and visualization has been uploaded in this repository.
